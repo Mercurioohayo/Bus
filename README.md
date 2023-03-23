@@ -35,6 +35,12 @@ Para resolver este desafio, este foi o passo a passo adotado:
 - Exportar o dataframe como uma planilha do Excel
 - Enviar por e-mail os resultados    
 
+## Demonstrações
+
+Veja a planilha que obtive no dia 22/03/2023:
+
+![Planilha com Resultados das Buscas](Planilha-Resultados-Buscas.png "Planilha com resultados das buscas")
+
 ## Como Reproduzir este Projeto
 
 Inicialmente, navegue para a pasta na qual deseja clonar o repositório deste projeto. Em seguida, clone este repositório com o seguinte comando:
